@@ -12,4 +12,4 @@ A collection of code snippets and general geospatial resources to support the CS
 - The full Jupyter notebook with code from the ArcGIS API for Python story
 - The PDF file embedded in the ArcGIS Resources story.
 
-## Please also check out the [Geospatial Centroid's crash course in geospatial python](https://github.com/GeospatialCentroid/geospatial-python-crash-course) repo for more info and sample code:
+## Please also check out the [Geospatial Centroid's crash course in geospatial python](https://github.com/GeospatialCentroid/geospatial-python-crash-course) repo for more info and sample code
